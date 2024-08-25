@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nour-CS19.github.io/moviesReactjs/static/css/main.f7d3979a.css",
+    "main.js": "/Nour-CS19.github.io/moviesReactjs/static/js/main.a919af8a.js",
+    "static/js/453.ed3810f9.chunk.js": "/Nour-CS19.github.io/moviesReactjs/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Nour-CS19.github.io/moviesReactjs/index.html",
+    "main.f7d3979a.css.map": "/Nour-CS19.github.io/moviesReactjs/static/css/main.f7d3979a.css.map",
+    "main.a919af8a.js.map": "/Nour-CS19.github.io/moviesReactjs/static/js/main.a919af8a.js.map",
+    "453.ed3810f9.chunk.js.map": "/Nour-CS19.github.io/moviesReactjs/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7d3979a.css",
+    "static/js/main.a919af8a.js"
+  ]
+}
